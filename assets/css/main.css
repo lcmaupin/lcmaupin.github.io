@@ -2011,6 +2011,14 @@ input, select, textarea {
 
 /* Icon */
 
+	.fab {
+		font-size: 5em;
+	}
+
+	.feature-icons {
+		font-weight: bold;
+	}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -2047,6 +2055,7 @@ input, select, textarea {
 		}
 
 /* Image */
+
 
 	.image {
 		border-radius: 5px;
